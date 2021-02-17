@@ -6,25 +6,14 @@
         <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
         <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
       </path>
-      <path>
-        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
-      </path>
-      <path>
-        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
-      </path>
     </expand>
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b1c6c9d4-bd99-44b3-a6ea-3695d57eccf2" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/api/client/client.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/api/client/client.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/api/components/header/Header.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/api/components/header/Header.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/api/operations/queries/queries.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/api/operations/queries/queries.ts" afterDir="false" />
+    <list default="true" id="a8452fc8-da33-489d-8c82-6b4345e40af9" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/src/components/header/header.module.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/header/header.module.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/header/header.module.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/header/header.module.css.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/header/header.module.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/header/header.module.scss" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -34,36 +23,52 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="SCSS File" />
         <option value="TypeScript File" />
+        <option value="SCSS File" />
       </list>
     </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectId" id="1ocKBxCWEQ3e1GbVMpQ32qWRy67" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="JsFlowSettings">
+    <service-enabled>true</service-enabled>
+    <exe-path />
+    <other-services-enabled>true</other-services-enabled>
+    <auto-save>true</auto-save>
+  </component>
+  <component name="ProjectId" id="1oc71nbQIgCwXAfh1xBKjNMoolp" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/assets/images" />
     <property name="list.type.of.created.stylesheet" value="SCSS" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="yarn" />
     <property name="prettierjs.PrettierConfiguration.Package" value="C:\Users\Ivan\AppData\Roaming\npm\node_modules\prettier" />
-    <property name="settings.editor.selected.configurable" value="watcher.settings" />
-    <property name="ts.external.directory.path" value="C:\Users\Ivan\Desktop\gh-search-test-task\node_modules\typescript\lib" />
+    <property name="settings.editor.selected.configurable" value="settings.javascript.prettier" />
+    <property name="ts.external.directory.path" value="C:\Users\Ivan\Desktop\github-search-test-task\node_modules\typescript\lib" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Ivan\Desktop\github-search-test-task\src\assets\images" />
+      <recent name="C:\Users\Ivan\Desktop\github-search-test-task\src\components" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\Users\Ivan\Desktop\gh-search-test-task\src\api\client" />
+      <recent name="C:\Users\Ivan\Desktop\github-search-test-task\src\store" />
     </key>
   </component>
   <component name="SvnConfiguration">
@@ -71,12 +76,16 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="b1c6c9d4-bd99-44b3-a6ea-3695d57eccf2" name="Default Changelist" comment="" />
-      <created>1613580306613</created>
+      <changelist id="a8452fc8-da33-489d-8c82-6b4345e40af9" name="Default Changelist" comment="" />
+      <created>1613573812918</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1613580306613</updated>
-      <workItem from="1613580311646" duration="4644000" />
+      <updated>1613573812918</updated>
+      <workItem from="1613573817110" duration="2062000" />
+      <workItem from="1613575902371" duration="1375000" />
+      <workItem from="1613577444211" duration="117000" />
+      <workItem from="1613586711447" duration="4440000" />
+      <workItem from="1613597978700" duration="5736000" />
     </task>
     <servers />
   </component>
@@ -93,15 +102,38 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="438" y="191" key="EditFileWatcherDialog" timestamp="1613581099018">
+    <state x="438" y="191" key="EditFileWatcherDialog" timestamp="1613598676360">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="438" y="191" key="EditFileWatcherDialog/0.0.1536.824@0.0.1536.824" timestamp="1613581099018" />
-    <state x="277" y="57" key="SettingsEditor" timestamp="1613581093462">
+    <state x="438" y="191" key="EditFileWatcherDialog/0.0.1536.824@0.0.1536.824" timestamp="1613598676360" />
+    <state x="549" y="167" key="FileChooserDialogImpl" timestamp="1613586997145">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="277" y="57" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1613581093462" />
+    <state x="549" y="167" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1613586997145" />
+    <state x="277" y="57" key="SettingsEditor" timestamp="1613575288528">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="277" y="57" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1613575288528" />
+    <state x="425" y="187" key="run.anything.popup" timestamp="1613601156415">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="425" y="187" key="run.anything.popup/0.0.1536.824@0.0.1536.824" timestamp="1613601156415" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/src/helpers/helpers.tsx</url>
+          <line>10</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
